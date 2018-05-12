@@ -1,0 +1,34 @@
+_repo: Gefl-gelte-WorteDer-Citatenschatz-des-deutschen-Volkes_43759
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43759-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Robert-tornow, Walter
+    alias: Robert-tornow, Walther Heinrich
+    birthdate: 1852
+    deathdate: 1895
+    gutenberg_agent_id: '42390'
+    url: http://www.gutenberg.org/2009/agents/42390
+  - agent_name: Büchmann, Georg
+    alias: Buchmann, Georg
+    birthdate: 1822
+    deathdate: 1884
+    gutenberg_agent_id: '42389'
+    url: http://www.gutenberg.org/2009/agents/42389
+description: ''
+gutenberg_issued: '2013-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43759'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcc 'PN'
+- !lcsh 'Quotations, German'
+title: 'Geflügelte Worte: Der Citatenschatz des deutschen Volkes'
+url: http://www.gutenberg.org/ebooks/43759
